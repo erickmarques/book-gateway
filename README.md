@@ -41,6 +41,7 @@ server.port=8080
 
 # Eureka
 eureka.client.service-url.defaultZone=http://localhost:8761/eureka
+```
 
 ## Uso
 
